@@ -2,6 +2,6 @@ applications:
 - memory: 208M
   services:
   - jcasa-iot-cloudantNoSQLDB
-  - jcasa-iot-iotf-service
+  - discover-iot-try-service
   env:
     NODE_RED_STORAGE_NAME: jcasa-iot-cloudantNoSQLDB
